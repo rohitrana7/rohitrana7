@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Rohit Rana
-Evolving with the changing times and technology
-I'm a Software Engineer and a BTech graduate focused in Computer Science and Engineering.
+Evolving with the changing times and technology <br>
+I'm a Software Engineer and a BTech graduate focused in Computer Science and Engineering. <br>
 Aims to have hands-on involvement in diverse domains
 #### I am inspired by quote "If you want to shine like a sun, first burn like a sun." -A. P. J. Abdul Kalam🙏
 
